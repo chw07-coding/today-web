@@ -26,5 +26,5 @@ function mch(){
   // console.log("MessageCircleHeart Button is pushed")
   // alert("umjunsick")
   // alert(prompt("id:"))//
-  confirm("yes or no!")
+  confirm("yes or no!!")
 }
